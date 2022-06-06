@@ -9,6 +9,15 @@ body
   height: auto;
   border-radius: 60px;
 }
+.resplogo
+{
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+}
 .mode
 {
   background-color: #130f40;
