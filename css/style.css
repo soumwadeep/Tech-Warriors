@@ -1,0 +1,46 @@
+body
+{
+    font-family: Georgia;
+    text-align: center;
+}
+.resp
+{
+  width: 100%;
+  height: auto;
+  border-radius: 60px;
+}
+.mode
+{
+  background-color: #130f40;
+  background-image: linear-gradient(315deg, #130f40 0%, #000000 74%);
+  color: white;
+}
+.head
+{
+    color: red;
+}
+.btn
+{
+    border-radius: 30px;
+    height: 40px;
+    width: 100px;
+    background-color: #130f40;
+    color: wheat;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.btn:hover
+{
+    background-color: blueviolet;
+    color: white;
+}
+.foot
+{
+    color: red;
+}
+.cent
+{
+    text-align:center;
+    display:table-cell;
+    vertical-align: middle;
+}
